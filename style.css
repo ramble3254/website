@@ -1,0 +1,60 @@
+body
+{
+    background-color: #777;
+    
+
+}
+
+header
+{
+    
+    background-color: #999;
+
+    
+
+}
+
+.container
+{
+    margin: auto;
+    width: 90%;
+    overflow: hidden;
+
+
+}
+
+.floatfix
+{
+
+    float: left;
+
+}
+
+.logo
+{
+    width: 220px;
+    background-color: black;
+    
+
+
+}
+.nav-position
+{
+    float: right;
+    position: relative;
+    top: 150px;
+
+    
+
+}
+
+
+.navlist
+{
+    color: blue;
+    list-style: none;
+    display: inline;
+    margin-right: 12px;
+
+}
+
